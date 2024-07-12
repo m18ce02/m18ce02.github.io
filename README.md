@@ -1,9 +1,9 @@
-# 什么是 aiM18?
+# What is aiM18?
 
-Multiable aiM18平台是一个专注于企业软件的快速低代码开发平台。
-第三方开发者可以开发依赖aiM18平台运行的应用程序，并且可以通过APIs将其他平台与aiM18平台集成。
+The Multiable aiM18 platform is a fast low-code development platform that focuses on enterprise business software.
+Third-party developers can develop applications that rely on the aiM18 platform to run, and can integrate other platforms with the aiM18 platform via APIs.
 
-# 本文档的目标读者
+# Who is the document for?
 
-万达宝公司的客户或第三方开发者，已经拥有一个aiM18软件系统。
+Developer with an aiM18 instance, usually a Multiable aiM18 client or a third-party developer.
 
