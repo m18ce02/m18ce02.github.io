@@ -17,7 +17,7 @@ module.exports = {
   // 主题配置
   themeConfig: {
     nav: [
-      { text: 'DOC Home', link: '/', items: [{ text: '文档主页', link: '/pages/7486ac/' }] },
+      { text: 'DOC Home', link: '/'},
       {
         text: 'App Development', link: '/pages/7488ac/', items: [
 		  {

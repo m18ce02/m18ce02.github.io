@@ -20,9 +20,9 @@ postList: none
 ---
 
 ## Notifications
-1. The aiM18 platform offers two development modes, <Badge text="App Development" type="tip" vertical="middle"/> and <Badge text="API Integration" type="tip" vertical="middle"/>.
-2. Regarding **App Development**, you need to understand the definition and structure of the `aiM18 App`. We suggest that you read [the content of app development](/pages/7488ac/) in sequence.
-3. Regarding **App Development**, if you are more comfortable reading in Chinese, we also provide [Chinese documentation](/pages/becaba/).
+1. This website also offers a [Chinese version](https://aim18doc.multiable.com/zh/). In case of any discrepancies between the English and Chinese versions, the English version will take precedence.
+2. The aiM18 platform offers two development modes, <Badge text="App Development" type="tip" vertical="middle"/> and <Badge text="API Integration" type="tip" vertical="middle"/>.
+3. Regarding **App Development**, you need to understand the definition and structure of the `aiM18 App`. We suggest that you read [the content of app development](/pages/7488ac/) in sequence.
 4. Regarding **API Integration**, you need to first understand [how aiM18 APIs are authorized](/pages/2ffa7b/), and then you can search for API information based on keywords.
 
 
