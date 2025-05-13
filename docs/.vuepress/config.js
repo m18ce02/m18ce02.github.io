@@ -160,7 +160,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 1990, // 博客创建年份
-      copyrightInfo: 'Multiable | MIT License', // 博客版权信息，支持a标签
+      copyrightInfo: '<a href="https://www.multiable.com/">Multiable</a> | MIT License', // 博客版权信息，支持a标签
     },
     htmlModules,
   },
