@@ -232,5 +232,20 @@ module.exports = {
   extraWatchFiles: [
     '.vuepress/config.js',
     '.vuepress/config/htmlModules.js',
-  ]
+  ],
+  extendPageData($page) {
+    const { frontmatter } = $page;
+
+    // 检查 frontmatter 中是否存在 meta 数组
+    if (frontmatter && Array.isArray(frontmatter.meta)) {
+      // 遍历 meta 数组
+      frontmatter.meta.forEach(metaItem => {
+        // 检查 meta 项的 name 是否为 'description' 并且 content 是否存在
+        if (metaItem && metaItem.name === 'description' && typeof metaItem.content === 'string') {
+          // 在 description 的 content 末尾添加 "(aiM18)"
+          metaItem.content += '(aiM18)';
+        }
+      });
+    }
+  }
 }
