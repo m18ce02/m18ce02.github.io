@@ -37,6 +37,7 @@ module.exports = {
               { text: 'ERP EJB Interfaces', link: '/pages/1dfab2/' },
               { text: 'ERP XML Config Files', link: '/pages/1dfab3/' },
               { text: 'ERP Decorators (Frontend Interfaces)', link: '/pages/1dfab4/' },
+              { text: 'ERP Group ERP Extension', link: '/pages/1dfab5/' },
             ]
           },
 		  {
